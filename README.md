@@ -74,11 +74,4 @@ For background on the GFW data product and its known issues, see the [GFW versio
 
 AIS participation and reception are incomplete and vary across places and time. Vessel identity and flag classifications can be uncertain, model estimates can contain false positives or omissions, and 0.1-degree cells limit boundary precision. Results are descriptive and do not establish causal effects or MPA effectiveness. MPA regulations, zoning, and effective dates differ, so apparent activity inside a polygon is not by itself evidence of a legal violation.
 
-## Manuscripts
 
-- [Turkish manuscript (DOCX)](outputs/Sude_Nur_Kilic_GFW_MPA_Makale_Genisletilmis_Duzenlenmis.docx) · [PDF](outputs/Sude_Nur_Kilic_GFW_MPA_Turkce.pdf)
-- [English manuscript (DOCX)](outputs/Sude_Nur_Kilic_GFW_MPA_Expanded_English.docx) · [PDF](outputs/Sude_Nur_Kilic_GFW_MPA_English.pdf)
-
-## Suggested repository name
-
-`gfw-mpa-apparent-fishing-effort-2022-2024`
